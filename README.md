@@ -10,7 +10,6 @@ This repository is the official implementation of "[PLOT: Text-based Person Sear
   - Ubuntu 22.04
   - CUDA 11.7.0
   - NVIDIA RTX A6000 / RTX 6000 Ada
-  - Anaconda
   - Python: 3.10.13
   - PyTorch: 1.13.0
 
