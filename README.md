@@ -10,12 +10,19 @@ This repository is the official implementation of "[PLOT: Text-based Person Sear
   - Ubuntu 22.04
   - CUDA 11.7.0
   - NVIDIA RTX A6000 / RTX 6000 Ada
-
-  Install followings,
+  - Anaconda
   - Python: 3.10.13
   - PyTorch: 1.13.0
 
-  and run the installation commands below:
+  Conda environment and pytorch installation:
+  ```
+  conda create -n PLOT python=3.10.13
+  conda activate PLOT
+  conda install pytorch==1.13.0 torchvision==0.14.0 torchaudio==0.13.0 pytorch-cuda=11.7 -c pytorch -c nvidia
+  ```
+  
+
+  Additional package installation:
   ```
   pip install -r requirements.txt
   ```
