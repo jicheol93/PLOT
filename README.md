@@ -63,12 +63,12 @@ sh eval_plot_cuhk.sh
 sh eval_plot_icfg.sh
 sh eval_plot_rstp.sh
 ```
-## Download Weights
+## Download weights
 ```
 ```
 
 ## Acknowledgments
 Parts of our codes are adopted from the following repositories. We sincerely appreciate their contributions.
-*https://github.com/openai/CLIP
-*https://github.com/anosorae/IRRA/tree/main
-*https://github.com/lucidrains/slot-attention
+* https://github.com/openai/CLIP
+* https://github.com/anosorae/IRRA/tree/main
+* https://github.com/lucidrains/slot-attention
