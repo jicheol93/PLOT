@@ -64,7 +64,7 @@ sh eval_plot_icfg.sh
 sh eval_plot_rstp.sh
 ```
 ## Download weights
-[link]()
+[link](https://drive.google.com/file/d/1CL8hairQWFUnHz3pkZSizCA1X5CBKu9i/view?usp=sharing)
 
 
 ## Acknowledgments
