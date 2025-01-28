@@ -87,8 +87,7 @@ if __name__ == '__main__':
     start_epoch = 1
 
     if args.plugin:
-        f = "/home/jicheol/project_nlps/IRRA/logs/CUHK-PEDES/20230718_212104_iira/best.pth"
-        ##f = "/home/jicheol/project_nlps/IRRA/logs/CUHK-PEDES/20230921_131218_IRRA_rep/best.pth"
+        f = "/best.pth"
         checkpoint = torch.load(f, map_location=torch.device("cpu"))
         ##model.irra.load_state_dict(checkpoint.pop("model"))
         checkpoint_dict = checkpoint.pop("model")
