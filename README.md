@@ -64,8 +64,8 @@ sh eval_plot_icfg.sh
 sh eval_plot_rstp.sh
 ```
 ## Download weights
-```
-```
+[link]()
+
 
 ## Acknowledgments
 Parts of our codes are adopted from the following repositories. We sincerely appreciate their contributions.
