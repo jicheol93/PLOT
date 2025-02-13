@@ -1,6 +1,5 @@
 #!/bin/bash
-CUDA_VISIBLE_DEVICES=0 \
-python train_plot.py \
+CUDA_VISIBLE_DEVICES=0 python train_plot.py \
 --name plot \
 --num_slots 8 \
 --img_aug \
